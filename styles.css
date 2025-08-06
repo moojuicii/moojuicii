@@ -23,3 +23,9 @@ body {
 .light-mode {   
     background-color: gainsboro;
 }
+p{
+    font-size: large;
+}
+li{
+    font-size: large;
+}
