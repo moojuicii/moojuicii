@@ -1,7 +1,25 @@
 h1 {
     text-align: center;
-    color: orangered;
+    color: black;
+    border-style: outset;
+    border-color: slategray;
+    border-width: 6px;
 }
-img {
-     content:
+img{
+    display: block;
+    margin: auto;
+    border-style: inset;
+    border-width: 10px;
+    border-color: slategray;
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+}
+body {
+    background-color: lightslategray;
+}
+.light-mode {   
+    background-color: gainsboro;
 }
